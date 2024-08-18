@@ -10,7 +10,7 @@
    - Import and load the dataset containing the R&D, Administration, and Marketing costs along with the Profit of various startups.
 
 2. **One-Hot Encoding**
-   - Convert categorical data (if any, such as the state a startup is based in) into numerical format using one-hot encoding.
+   - Convert categorical data (if any, such as the country of the startup) into numerical format using one-hot encoding.
 
 3. **Splitting the Dataset**
    - Split the dataset into a training set and a testing set to evaluate the model's performance. The training set is used to train the model, while the testing set is used to assess its accuracy.
